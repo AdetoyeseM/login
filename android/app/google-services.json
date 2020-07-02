@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864307985946",
+    "firebase_url": "https://net-ninja-912b0.firebaseio.com",
+    "project_id": "net-ninja-912b0",
+    "storage_bucket": "net-ninja-912b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864307985946:android:fe8b6359c1078343cbdba3",
+        "android_client_info": {
+          "package_name": "com.adept.net9ja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864307985946-ut948po3k0h8jdj6j2rrljf5i36spgc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCF75b6dLpeIZI4Cl826MOQfDoIG_cXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864307985946-ut948po3k0h8jdj6j2rrljf5i36spgc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
